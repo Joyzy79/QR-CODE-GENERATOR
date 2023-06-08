@@ -1,0 +1,46 @@
+# Gerador de QR Code
+
+Este projeto consiste em um gerador de QR Code, uma ferramenta que permite a criação de códigos QR a partir de uma URL ou texto inseridos pelo usuário. Com esse gerador, é possível criar facilmente QR Codes personalizados para diversas aplicações.
+
+## Tecnologias Utilizadas
+
+O projeto utiliza as seguintes tecnologias:
+
+- HTML: para a estruturação e marcação dos elementos da página.
+- CSS: para a estilização e o layout responsivo da aplicação.
+- JavaScript: para a interatividade e a manipulação dos elementos da página.
+- API de Geração de QR Code: o código QR é gerado dinamicamente usando a API pública `https://api.qrserver.com`. A API permite especificar o tamanho do QR Code e os dados a serem codificados.
+
+## Funcionalidades
+
+O gerador de QR Code possui as seguintes funcionalidades:
+
+1. Inserção de URL ou texto: o usuário pode digitar uma URL ou um texto no campo de entrada fornecido.
+2. Geração do QR Code: ao clicar no botão "Gerar QR Code", o sistema irá criar o código QR correspondente aos dados inseridos.
+3. Visualização do QR Code: o QR Code gerado é exibido na página, permitindo que o usuário o visualize e o utilize conforme necessário.
+4. Responsividade: a aplicação é projetada para se adaptar a diferentes tamanhos de tela, proporcionando uma experiência consistente em dispositivos móveis e desktops.
+
+## Utilização Prática
+
+O gerador de QR Code pode ser aplicado em diversas situações, tais como:
+
+- Compartilhamento de informações: é possível criar QR Codes contendo URLs para compartilhar links para sites, perfis de mídia social, vídeos, documentos, entre outros.
+- Marketing e publicidade: os QR Codes podem ser impressos em materiais promocionais, como cartazes, panfletos ou cartões de visita, para fornecer aos clientes acesso rápido a informações adicionais ou ofertas exclusivas.
+- Autenticação e segurança: os QR Codes podem ser usados para autenticar produtos ou documentos, fornecendo informações adicionais e garantindo a sua procedência.
+- Controle de acesso: em eventos ou locais privados, os QR Codes podem ser utilizados como ingressos digitais ou passes de acesso.
+
+## Autor
+
+Este projeto foi desenvolvido por joyzy79.Contribuição
+Se você quiser contribuir para o projeto ConversorIneitor, siga as etapas abaixo:
+
+Faça um fork do repositório.
+Crie uma branch para a sua contribuição.
+Realize as alterações e adições necessárias.
+Faça um commit das suas alterações.
+Envie um pull request.
+Autor
+O ConversorIneitor foi desenvolvido por joyzy79.
+
+Licença
+Este projeto está licenciado sob a MIT License.
